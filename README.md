@@ -1,6 +1,9 @@
+# EXP NO :3
+# NAME:M.GOKUL ANAND
+# REGNO:212223040049
+
 # Explore Google hacking and enumeration 
-### NAME:M.Gokul Anand
-### REGISTER NUMBER:212223040049
+
 # AIM:
 
 To use Google for gathering information and perform enumeration of targets
@@ -57,27 +60,35 @@ Open terminal and try execute some kali linux commands
 ```
 
 # Output:
-SITE:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a4cdb1e-bb24-40a5-bb5e-8aef6b1b7daa" />
-INURL:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/350fed71-39ae-4bf3-95ca-db8c7f8dcba3" />
-INTITLE:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84e61164-08c8-48c2-ae91-7a8cb859fcaf" />
-FILETYPE.PDF
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eac9b016-f391-41a6-8613-8e0a85ee2928" />
-INTEXT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b37fd071-d9eb-4828-88be-79a05c33a79c" />
-LINK:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76a66a8c-be5e-463a-a9e4-f9d4ce585e1d" />
-CACHE:
-![L-3 IMG 7](https://github.com/user-attachments/assets/e4d61750-1b1e-4994-942e-dcd78251d64e)
+# SITE:
+<img width="956" height="1062" alt="Site exp 3" src="https://github.com/user-attachments/assets/76b2ca96-32b4-42e1-b2b5-68e5879101e9" />
+
+# INURL
+<img width="956" height="1067" alt="inurl admin Exp3" src="https://github.com/user-attachments/assets/34f7c706-b367-430f-b29a-43e230499015" />
+
+# INTITLE
+<img width="950" height="1065" alt="intitle exp 3" src="https://github.com/user-attachments/assets/3b17d4f6-2685-407e-b54e-a39bd3ed00b1" />
+
+# FILETYPE
+<img width="953" height="1057" alt="file type" src="https://github.com/user-attachments/assets/e3ec0026-a26b-4bd8-bc60-7abd9cba2293" />
+
+# INTEXT
+<img width="948" height="1060" alt="Intext exp 3" src="https://github.com/user-attachments/assets/cba84167-8aea-4968-a265-744f126322bd" />
+
+# LINK
+<img width="952" height="1067" alt="Link exp 3" src="https://github.com/user-attachments/assets/fb5b6ab9-1f63-4f05-933b-992569cee612" />
+
+# CACHE
+<img width="952" height="1062" alt="Cache exp 3" src="https://github.com/user-attachments/assets/5f3950f1-01a5-43f9-8744-a0c203909d59" />
+
+# EXT
+<img width="948" height="1065" alt="ext exp 3" src="https://github.com/user-attachments/assets/f352a202-b5db-4cbe-9272-545626cf6c6a" />
 
 # DNS Enumeration
-
-<img width="1218" height="684" alt="image" src="https://github.com/user-attachments/assets/595e0b6c-01d8-4ea4-9555-5bd478bc0dec" />
-
+<img width="951" height="827" alt="DNS enumeration exp 3" src="https://github.com/user-attachments/assets/f5ee8f6b-bcaa-408d-9e79-d2665cbc2304" />
 
 ## DNS Recon
+<img width="953" height="541" alt="Dns recon exp 3" src="https://github.com/user-attachments/assets/2bdc4bda-0114-4422-95fe-13a53524df0b" />
 
 | Record Type | Meaning                        | Example Output                   |
 | ----------- | ------------------------------ | -------------------------------- |
@@ -102,25 +113,26 @@ CACHE:
 
 
 ## OUTPUT:
+# NSLOOKUP
+<img width="703" height="821" alt="NS lookup exp 3" src="https://github.com/user-attachments/assets/8a318853-1550-47f5-9346-58debc54f552" />
 
-### NSLOOKUP:
-<img width="928" height="857" alt="image" src="https://github.com/user-attachments/assets/ec07a6c4-f721-4384-93fe-eb07014e898d" />
+# DIG
+<img width="758" height="667" alt="Dig exp 3" src="https://github.com/user-attachments/assets/1bf69d85-8c4d-43a5-910a-cd3923067fda" />
 
-### DIG:
-<img width="796" height="631" alt="image" src="https://github.com/user-attachments/assets/6cb30cf2-4716-4eb9-b605-fe3f7540a1f3" />
+# HOST
+<img width="737" height="527" alt="Host exp 3" src="https://github.com/user-attachments/assets/11c98ce8-af3d-4daa-b4d8-955b373359ea" />
 
-### HOST:
-<img width="765" height="636" alt="image" src="https://github.com/user-attachments/assets/25893560-1825-4bc0-8ec8-eac9d2bce5c6" />
+# DNSSENUM
+<img width="796" height="571" alt="dns senum exp 3" src="https://github.com/user-attachments/assets/72766944-196b-4d3c-a56d-dca153d68270" />
 
-### DNSENUM:
-<img width="1218" height="684" alt="image" src="https://github.com/user-attachments/assets/595e0b6c-01d8-4ea4-9555-5bd478bc0dec" />
+# DNSRECON
+<img width="953" height="541" alt="Dns recon exp 3" src="https://github.com/user-attachments/assets/041795fd-400e-4a6a-acf1-51710ac9148c" />
 
+# FIERCE
+<img width="763" height="996" alt="fierce exp 3" src="https://github.com/user-attachments/assets/683ca218-93f0-49d8-9bfa-169d06cf2226" />
 
-### FIERCE:
-<img width="698" height="603" alt="image" src="https://github.com/user-attachments/assets/4048f80b-b6c9-48b8-84a1-4506f64f7c4e" />
-
-### theHarvester:
-<img width="835" height="645" alt="image" src="https://github.com/user-attachments/assets/b83263e2-7724-484b-b786-c2a42ff63c60" />
+# HARVESTER
+<img width="723" height="725" alt="Harvester exp 3" src="https://github.com/user-attachments/assets/be204124-6c7b-4dc7-a434-4d6c71cbccf9" />
 
 ## Architecture Diagram 
 ```
@@ -160,7 +172,7 @@ dnsenum example.com
 ```
 
 ## Output:
-<img width="1218" height="684" alt="image" src="https://github.com/user-attachments/assets/595e0b6c-01d8-4ea4-9555-5bd478bc0dec" />
+<img width="796" height="571" alt="dns senum exp 3" src="https://github.com/user-attachments/assets/bcd5ab09-0149-4fc3-bcd2-637783cfd763" />
 
 
 
@@ -174,7 +186,8 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
  ## Output
-  <img width="920" height="385" alt="image" src="https://github.com/user-attachments/assets/fd8013e8-c6d0-44e6-84a9-5e101b09826c" />
+<img width="930" height="513" alt="output 1 exp 3" src="https://github.com/user-attachments/assets/428a47c6-44d2-4a30-a7f6-97c79ef5a5bd" />
+
 
 
 
@@ -188,7 +201,7 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
-<img width="932" height="205" alt="image" src="https://github.com/user-attachments/assets/57626337-5202-4fb0-9802-248fd950024f" />
+<img width="843" height="176" alt="output 2 exp 3" src="https://github.com/user-attachments/assets/91830814-62fa-4dfd-afb7-c5739e27a062" />
 
 
 
